@@ -4,6 +4,7 @@ Flask==1.1.1
 Flask-Cors==3.0.8
 Flask-DebugToolbar==0.10.1
 gekko==0.2.6
+gunicorn==20.0.4
 itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
